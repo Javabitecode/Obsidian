@@ -1,0 +1,2 @@
+1. https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/#rest-api-login
+2. https://translated.turbopages.org/proxy_u/en-ru.ru.7ebc4854-630dd094-be3e208e-74722d776562/https/stackoverflow.com/questions/66176295/how-do-i-verify-if-the-api-is-throwing-200-ok-as-status-code-in-jmeter

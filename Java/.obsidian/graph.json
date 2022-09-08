@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.66543942992874,
+  "lineSizeMultiplier": 0.780515142517815,
+  "collapse-forces": false,
+  "centerStrength": 0.433491686460808,
+  "repelStrength": 12.6603325415677,
+  "linkStrength": 0.528503562945368,
+  "linkDistance": 44,
+  "scale": 1.0000000000000062,
+  "close": true
+}

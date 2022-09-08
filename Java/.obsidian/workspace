@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "ac820a04cc78e080",
+    "type": "split",
+    "children": [
+      {
+        "id": "33b0137d72dc2c00",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WebSocket/WebSocket.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc6a5cfc6ed0e9ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f6e065a11b81a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0b5aad84b1a08d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "76f757a366b72b41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e07cda136a62796",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aeee91d8c8a21da",
+    "type": "split",
+    "children": [
+      {
+        "id": "6557d02b9af75c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27a276b531d40c84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WebSocket/WebSocket.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "312802c24d42f48a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WebSocket/WebSocket.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "033235e9b2c24bc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f91848d156012d25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WebSocket/WebSocket.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "33b0137d72dc2c00",
+  "lastOpenFiles": [
+    "WebSocket/WebSocket ROUTE.md",
+    "WebSocket/WebSocket.md",
+    "Reactive/Разница WebFlux Async.md",
+    "Java.md",
+    "gRPC/gRPC ROUTE.md",
+    "gRPC/BloomRPC.md",
+    "gRPC/gRPC base.md",
+    "Message Queue/Nuts/Nuts ROUTE.md",
+    "Message Queue/Mess Queue ROUTE.md",
+    "Http/Http ROUTE.md"
+  ]
+}

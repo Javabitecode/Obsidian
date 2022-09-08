@@ -1,0 +1,1 @@
+https://www.baeldung.com/jvm-vs-jre-vs-jdk
