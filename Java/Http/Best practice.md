@@ -1,1 +1,0 @@
-1. https://habr.com/ru/company/yandex/blog/265569/

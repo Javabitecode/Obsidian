@@ -1,1 +1,2 @@
 [[Quarkus base]]
+[[MongoDb quarkus]]
