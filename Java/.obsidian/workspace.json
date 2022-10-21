@@ -4,79 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e82873a3409f7135",
+        "id": "a83c2374c009bc65",
         "type": "tabs",
         "children": [
           {
-            "id": "4934006527e4a511",
+            "id": "a26bd0d71c15498e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transaction/Spring Transaction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ad38290f03ac4c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quarkus/Quarkus ROUTE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf07caabc5d1753b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quarkus/Quarkus base.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "616a6f0bb0dc3b1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Http/Best practice Rest and Http.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffcbc43a967a6b37",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "42821a407707b5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Top/Tanz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Top/Tanz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Top/Tanz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Top/Tanz.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,17 +131,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "42821a407707b5e4",
+  "active": "a26bd0d71c15498e",
   "lastOpenFiles": [
-    "Quarkus/Quarkus ROUTE.md",
-    "Quarkus/MongoDb quarkus.md",
+    "Proxy.md",
     "Java.md",
+    "Spring Cloud/Spring Cloud ROUTE.md",
+    "Spring Cloud/Eureka.md",
     "12Factors/12Factors ROUTE.md",
-    "Http/Best practice Rest and Http.md",
-    "Http/Http ROUTE.md",
-    "Quarkus/Quarkus base.md",
-    "Properties/Properties Class example.md",
-    "Transaction/Transaction ROUTE.md",
-    "Transaction/Spring Transaction.md"
+    "Git/Git ROUTE.md",
+    "Git/Training git.md",
+    "Top/Tanz.md",
+    "Quarkus/Quarkus ROUTE.md",
+    "Quarkus/MongoDb quarkus.md"
   ]
 }
